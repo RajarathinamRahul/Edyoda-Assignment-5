@@ -5,4 +5,4 @@ class exponential():
     def power(self,x,n):
         print(x**n)
 obj=exponential()
-obj.power(2,4)
+obj.power(2,4) #change the arguments as per the requirement.
